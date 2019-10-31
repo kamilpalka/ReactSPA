@@ -10,7 +10,8 @@ div.app {
 
 header {
   flex-basis: 30vh;
-  background-color: orange;
+  position: relative;
+  overflow: hidden;
 }
 
 main {
