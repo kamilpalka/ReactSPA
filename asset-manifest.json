@@ -1,0 +1,18 @@
+{
+  "main.css": "/ReactSPA/static/css/main.af8c57ff.chunk.css",
+  "main.js": "/ReactSPA/static/js/main.2f7da5c0.chunk.js",
+  "main.js.map": "/ReactSPA/static/js/main.2f7da5c0.chunk.js.map",
+  "runtime~main.js": "/ReactSPA/static/js/runtime~main.b946b7b7.js",
+  "runtime~main.js.map": "/ReactSPA/static/js/runtime~main.b946b7b7.js.map",
+  "static/js/2.557ed988.chunk.js": "/ReactSPA/static/js/2.557ed988.chunk.js",
+  "static/js/2.557ed988.chunk.js.map": "/ReactSPA/static/js/2.557ed988.chunk.js.map",
+  "index.html": "/ReactSPA/index.html",
+  "precache-manifest.07e641d2aa92191d0f1f07958cb839fc.js": "/ReactSPA/precache-manifest.07e641d2aa92191d0f1f07958cb839fc.js",
+  "service-worker.js": "/ReactSPA/service-worker.js",
+  "static/css/main.af8c57ff.chunk.css.map": "/ReactSPA/static/css/main.af8c57ff.chunk.css.map",
+  "static/media/error1.jpg": "/ReactSPA/static/media/error1.d614620e.jpg",
+  "static/media/header1.jpg": "/ReactSPA/static/media/header1.0decbbc9.jpg",
+  "static/media/header2.jpg": "/ReactSPA/static/media/header2.26a6830d.jpg",
+  "static/media/header3.jpg": "/ReactSPA/static/media/header3.70a52587.jpg",
+  "static/media/header4.jpg": "/ReactSPA/static/media/header4.1e178383.jpg"
+}
