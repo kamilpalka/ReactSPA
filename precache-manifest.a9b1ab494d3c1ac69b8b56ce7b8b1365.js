@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/ReactSPA/static/js/runtime~main.b946b7b7.js"
   },
   {
-    "revision": "54f649a7d928e1a51f45",
-    "url": "/ReactSPA/static/js/main.2f7da5c0.chunk.js"
+    "revision": "9bed9c0c5f17d4a2e725",
+    "url": "/ReactSPA/static/js/main.47d38636.chunk.js"
   },
   {
     "revision": "c9182c1567a0bbbc07fd",
     "url": "/ReactSPA/static/js/2.557ed988.chunk.js"
   },
   {
-    "revision": "54f649a7d928e1a51f45",
+    "revision": "9bed9c0c5f17d4a2e725",
     "url": "/ReactSPA/static/css/main.af8c57ff.chunk.css"
   },
   {
-    "revision": "ac3018865b92b2902e210ee361febde9",
+    "revision": "1410a12e9bea1f880eaa674ebb619b8a",
     "url": "/ReactSPA/index.html"
   }
 ];
